@@ -1,4 +1,4 @@
-package com.luckyzhang.day1;
+package com.luckyzhang.design.single;
 
 /**
  * 枚举类实现单例的方式

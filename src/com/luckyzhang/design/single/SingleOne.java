@@ -1,4 +1,4 @@
-package com.luckyzhang.day1;
+package com.luckyzhang.design.single;
 
 public class SingleOne {
 

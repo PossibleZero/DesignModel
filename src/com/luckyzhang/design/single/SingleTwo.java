@@ -1,4 +1,4 @@
-package com.luckyzhang.day1;
+package com.luckyzhang.design.single;
 
 /**
  * 静态内部类（懒汉模式）
